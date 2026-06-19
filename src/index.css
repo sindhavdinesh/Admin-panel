@@ -1,0 +1,37 @@
+:root {
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --bg-color: #f4f6f9; /* Dashboard light gray background */
+  --card-bg: #ffffff;
+  --text-color: #1a1a1a;
+  --text-muted: #8a9099;
+  --primary-color: #24b47e; /* Green color match */
+  --primary-hover: #1e9e6d;
+  --border-color: #eef1f4;
+  --input-bg: #f3f3f5;
+  --blue-active: #3b82f6;
+  --blue-active-bg: #eff6ff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+svg text {
+  font-family: var(--font-sans);
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
