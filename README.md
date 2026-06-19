@@ -1,4 +1,4 @@
-# 🌌 CAMIOCA ADMIN PANEL 2.0
+# 🌌 ADMIN PANEL
 > *Crafted with absolute precision, smooth motion curves, and fluid aesthetics.*
 
 <p align="center">
