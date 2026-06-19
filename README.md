@@ -1,4 +1,4 @@
-# ⚡ CAMIOCA CYBER-INTELLIGENCE PANEL 2.0
+# ⚡ AdminPANEL 
 > **🛡️ High-Performance, Low-Latency React 18 Admin Dashboard. Engineered by Sindhav Dinesh.**
 
 ```
@@ -90,11 +90,11 @@ npm run build
 
 ---
 
-## 👑 SENIOR ARCHITECT & AUTHOR
+## 👑Full stack Dev. & AUTHOR
 
 ```yaml
 maintainer: "Sindhav Dinesh"
-role: "Senior UI/UX & Frontend Architect"
+role: "Web dev. UI/UX & Frontend Architect"
 status: "Active Development"
 signature: "0xDB009"
 ```
