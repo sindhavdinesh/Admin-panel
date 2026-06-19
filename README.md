@@ -1,4 +1,4 @@
-# 🌌 Camioca Admin Panel 2.0
+# 🌌 Admin Panel 
 > **An Enterprise-Grade, Hyper-Responsive React 18 + Vite Administrative Suite.**
 
 [![React Version](https://img.shields.io/badge/react-v18.3.1-blue.svg?style=flat-square&logo=react)](https://react.dev)
