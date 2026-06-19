@@ -49,6 +49,18 @@ The search interface is inline and next to the user profile avatar, styled direc
 
 ---
 
+## 🎬 UI Motion & Micro-Animations
+
+The interface uses standard fluid transitions and timing functions to create a highly responsive feel:
+*   **Smooth Dropdowns:** Profile dropdowns smoothly transition using `transform` transitions:
+    ```css
+    transition: transform 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+    ```
+*   **Hover Scaling & Active States:** All buttons (`.add-widget-btn`, `.submit-btn`) and navigation elements animate their background-colors and transforms on hover to provide natural tactile feedback.
+*   **Input Glows & Transitions:** Input elements dynamically switch focus states with ease-in-out transition durations.
+
+---
+
 ## 🛠️ Technology Ecosystem & Dependencies
 
 *   **Runtime:** React 18 (Component state engine)
@@ -101,3 +113,9 @@ Global styling utilizes CSS variables inside [index.css](file:///c:/Users/User/D
   --border-color: #eef1f4;     /* Outer structure border tint */
 }
 ```
+
+---
+
+## ✍️ Author & Maintainer
+
+Developed with ❤️ by **[Sindhav Dinesh](https://github.com/sindhavdinesh)**.
